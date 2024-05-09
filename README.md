@@ -1,0 +1,2 @@
+# GeminiLLM
+Repositorio Treinamento Gemini
